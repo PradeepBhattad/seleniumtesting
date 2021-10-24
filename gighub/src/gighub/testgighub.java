@@ -2,6 +2,8 @@ package gighub;
 
 public class testgighub {
 	
-	String st;
+	String str;
+	
+	int i;
 
 }
