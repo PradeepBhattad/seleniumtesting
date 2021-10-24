@@ -4,6 +4,6 @@ public class testgighub {
 	
 	String str;
 	
-	int i;
+	int ink;
 
 }
